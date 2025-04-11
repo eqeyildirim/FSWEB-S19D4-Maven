@@ -6,7 +6,6 @@ import com.workintech.s19d1.entity.Movie;
 import com.workintech.s19d1.service.ActorService;
 import com.workintech.s19d1.service.MovieService;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
